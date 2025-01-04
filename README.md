@@ -32,7 +32,7 @@ By using three variable K-Map, we can get the simplified expression for next sta
 
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
-**Procedure**
+**PROCEDURE**
 
 1.Type the program in Quartus software.
 
@@ -54,7 +54,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
  ![image](https://github.com/user-attachments/assets/0e730e6f-4243-4fdb-b73e-a8b4867daa36)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![image](https://github.com/user-attachments/assets/1a4344c4-a06d-49e3-9166-4df274b7689d)
 
